@@ -1,0 +1,3 @@
+name: Bukkit3615TestPlugin
+version: 1.0.0
+main: com.techshroom.bukkit.plugin.TestPlugin3615
